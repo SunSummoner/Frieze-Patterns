@@ -28,3 +28,7 @@ There are seven distinct frieze groups.
 6. Spinning Sidle - translation, glide reflection and rotation (by a half-turn) symmetries
 7. Spinning Hop - all symmetries- translation, horizontal & vertical reflection, and rotation
 ## Methodology
+The methodology is divided into two parts:
+* The generation of the patterns
+* The recognition of the patterns
+  
